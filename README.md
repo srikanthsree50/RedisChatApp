@@ -1,2 +1,4 @@
-# RedisChatApp
-this is a redis chat application
+
+```
+Chat Application with storage system.
+```
